@@ -4,7 +4,7 @@ on:
       - '**.sh'
   pull_request:
 
-name: 'Syantax Checker'
+name: 'Syntax Checker'
 
 jobs:
   shellcheck:
